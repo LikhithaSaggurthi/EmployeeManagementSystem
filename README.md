@@ -19,6 +19,7 @@ User-Friendly Interface: Interactive console menu system
 📋 Menu Options
 
 === Employee Management System ===
+0. Exit
 1. Add Employee
 2. Display All Employees
 3. Search Employee by ID
@@ -29,7 +30,6 @@ User-Friendly Interface: Interactive console menu system
 8. Attendance Report
 9. Assign Role
 10. Role Report
-0. Exit
 
 
 Run the application
