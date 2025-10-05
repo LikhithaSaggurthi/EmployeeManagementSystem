@@ -26,7 +26,7 @@ public class MenuHandler {
         System.out.println("8. Attendance Report");
         System.out.println("9. Assign Role");
         System.out.println("10. Role Report");
-        System.out.println("0. Exit");
+        System.out.println("11. Exit");
         System.out.print("Enter your choice: ");
     }
 
@@ -63,7 +63,7 @@ public class MenuHandler {
             case 10:
                 roleManager.displayRoleReport();
                 break;
-            case 0:
+            case 11:
                 System.out.println("Thank you for using Employee Management System!");
                 break;
             default:
