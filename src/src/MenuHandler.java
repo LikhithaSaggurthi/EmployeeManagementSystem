@@ -78,7 +78,7 @@ public class MenuHandler {
             displayMenu();
             choice = scanner.nextInt();
             handleMenuChoice(choice);
-        } while (choice != 0);
+        } while (choice != 11);
         
         scanner.close();
     }
