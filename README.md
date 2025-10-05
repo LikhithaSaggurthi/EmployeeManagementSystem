@@ -19,6 +19,7 @@ User-Friendly Interface: Interactive console menu system
 📋 Menu Options
 
 === Employee Management System ===
+
 0. Exit
 1. Add Employee
 2. Display All Employees
