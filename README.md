@@ -34,7 +34,7 @@ User-Friendly Interface: Interactive console menu system
 
 Run the application
 
-java EmployeeManagementSystem
+``` java EmployeeManagementSystem ```
 
 
 🏗️ Project Structure
